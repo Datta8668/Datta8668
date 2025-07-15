@@ -36,7 +36,7 @@ I'm a passionate **Software Developer** driven by curiosity and a love for techn
 ## 🔥 GitHub Streak & Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Datta8668&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://git-hub-streak-stats.vercel.app/?user=Datta8668&theme=tokyonight" alt="GitHub Streak" />
   <br/>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Datta8668&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="readme stats" />
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Datta8668&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
