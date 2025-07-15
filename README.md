@@ -71,25 +71,6 @@ I'm a passionate **Software Developer** driven by curiosity and a love for techn
 
 ---
 
-## 📊 Profile Views & Stats
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://komarev.com/ghpvc/?username=Datta8668&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/github/followers/Datta8668?style=for-the-badge&color=blue" alt="Followers"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/github/stars/Datta8668?style=for-the-badge&color=yellow" alt="Stars"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 <div align="center">
   
   **"Building the future, one commit at a time."** 💻✨
